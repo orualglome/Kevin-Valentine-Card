@@ -16,9 +16,9 @@ const noMessages = [
     "Mr. Squirt will be so sad ... 😢",
     "Bubbi... 🥺",
     "Have I mentioned how much I love you lately?",
-    "You can't catch me anyway 😜",
     "Have I mentioned how HANDSOME you are?",
-    "You can't catch me anyway 😜"
+    "You can't catch me anyway 😜",
+    "There's an easier option 😈"
 ]
 
 const yesTeasePokes = [
