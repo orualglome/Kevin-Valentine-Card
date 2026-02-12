@@ -15,8 +15,8 @@ const noMessages = [
     "Wait, think about our babies... 🥺",
     "Mr. Squirt will be so sad ... 😢",
     "Bubbi... 🥺",
-    "Catch me if you can 😜",
     "Have I mentioned how much I love you lately?",
+    "You can't catch me anyway 😜",
     "Have I mentioned how HANDSOME you are?",
     "You can't catch me anyway 😜"
 ]
